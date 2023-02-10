@@ -42,10 +42,16 @@ Here are some ideas to get you started: -->
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" title="Netlify"  alt="Netlify" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"  alt="Bootstrap" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" title="npm"  alt="npm" width="70" height="40"/>&nbsp;
-  https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
-  https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
-  	https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-  https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
+  
+  
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" title="Eclipse" alt="Eclipse" width="70" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" title="sublime_text"  alt="sublime_text" width="70" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" title="Visual_Studio"  alt="Visual_Studio" width="70" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white" title="replit"  alt="replit" width="70" height="40"/>&nbsp;
+ 
+ 
+  
+ 
   
 </div>
 
