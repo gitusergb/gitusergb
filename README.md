@@ -62,5 +62,4 @@ Here are some ideas to get you started: -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitusergb&layout=compact&theme=vision-friendly-dark)](https://github.com/gitusergb/github-readme-stats)
 
-[![Gauri's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitusergb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gitusergb/github-readme-stats#gh-light-mode-only)
-
+[![Gauri's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitusergb&show_icons=true&theme=slateorange)](https://github.com/gitusergb/github-readme-statsslateorange)
