@@ -24,10 +24,10 @@ Here are some ideas to get you started: -->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" title="JavaScript" alt="JavaScript" width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" title="Git" **alt="Git" width="60" height="40"/>
 </div>
