@@ -56,11 +56,13 @@ Here are some ideas to get you started: -->
 
 ### :fire: My Stats :
 
-[![Gauri's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitusergb&show_icons=true&theme=slateorange)](https://github.com/gitusergb/github-readme-statsslateorange)
+[![Gauri's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitusergb&show_icons=true&theme=slateorange&bg_color=000000&card_width=500px)](https://github.com/gitusergb/github-readme-statsslateorange)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gitusergb&theme=dark&background=000000)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gitusergb&theme=dark&background=000000)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitusergb&layout=compact&theme=vision-friendly-dark)](https://github.com/gitusergb/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gitusergb&theme=dark&background=000000&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitusergb&layout=compact&theme=vision-friendly-dark&card_width=450px)](https://github.com/gitusergb/github-readme-stats)
 
 ---
 
