@@ -20,6 +20,7 @@ Here are some ideas to get you started: -->
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="400"/>
 </div>
 
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
