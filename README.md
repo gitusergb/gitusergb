@@ -1,4 +1,9 @@
-### Hi there 👋, I'm Gauri Bidwai
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Gauri Bidwai
+
+<img src="https://komarev.com/ghpvc/?username=gitusergb&style=flat-square&color=blue" alt="gitusergb"/>
+
+---
+
 ### :woman_technologist: About Me :
 <!--
 **gitusergb/gitusergb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +31,7 @@ Here are some ideas to get you started: -->
 
 <hr>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools , IDE:
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" title="Java" alt="Java" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="60" height="40"/>&nbsp;
@@ -37,6 +42,11 @@ Here are some ideas to get you started: -->
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" title="Netlify"  alt="Netlify" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"  alt="Bootstrap" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" title="npm"  alt="npm" width="70" height="40"/>&nbsp;
+  https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white
+  https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
+  	https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+  https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white
+  
 </div>
 
 ---
