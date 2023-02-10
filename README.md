@@ -14,9 +14,9 @@ Here are some ideas to get you started: -->
 - :zap: In my free time, I solve problems on hackerrank
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
 
-https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white
-https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white
+
+
+
 
 <hr>
 
@@ -32,6 +32,9 @@ https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=w
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" title="JavaScript" alt="JavaScript" width="80" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="60" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" title="Git" **alt="Git" width="60" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="70" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" title="Git" alt="Git" width="70" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" title="Netlify"  alt="Netlify" width="70" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"  alt="Bootstrap" width="70" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" title="npm"  alt="npm" width="70" height="40"/>&nbsp;
 </div>
