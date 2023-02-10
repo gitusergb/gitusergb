@@ -8,13 +8,12 @@
 <!--
 **gitusergb/gitusergb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
-<!-- - 🔭 I’m currently working on HTML,CSS,JavaScript  -->
 <!--- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with -->
 <!--- 😄 Pronouns: 
 - 🌱 I’m currently learning HTML,CSS,JavaScript -->
 
-- 🔭 I’m Aspiring Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from MH,India
+- 🔭 Aspiring Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from MH,India
 - 💬 Ask me about HTML,CSS,JavaScript
 - :zap: In my free time, I solve problems on hackerrank
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
