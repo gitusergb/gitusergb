@@ -19,11 +19,6 @@ Here are some ideas to get you started: -->
 - :zap: In my free time, I solve problems on hackerrank
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
 
-
-
-
-
-
 ---
 
 
@@ -66,3 +61,6 @@ Here are some ideas to get you started: -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gitusergb&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitusergb&layout=compact&theme=vision-friendly-dark)](https://github.com/gitusergb/github-readme-stats)
+
+[![Gauri's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitusergb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gitusergb/github-readme-stats#gh-light-mode-only)
+
