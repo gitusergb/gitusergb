@@ -23,15 +23,18 @@ Here are some ideas to get you started: -->
 
 
 
-<hr>
+
+---
+
 
 <div id="header" align="left">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="400"/>
 </div>
 
-<hr>
 
-### :hammer_and_wrench: Languages and Tools , IDE:
+---
+
+### :hammer_and_wrench: Languages and Tools , IDE :
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" title="Java" alt="Java" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="60" height="40"/>&nbsp;
@@ -44,10 +47,10 @@ Here are some ideas to get you started: -->
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" title="npm"  alt="npm" width="70" height="40"/>&nbsp;
   
   
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" title="Eclipse" alt="Eclipse" width="70" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" title="sublime_text"  alt="sublime_text" width="70" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" title="Visual_Studio"  alt="Visual_Studio" width="70" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white" title="replit"  alt="replit" width="70" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" title="Eclipse" alt="Eclipse" width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" title="sublime_text"  alt="sublime_text" width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" title="Visual_Studio"  alt="Visual_Studio" width="80" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white" title="replit"  alt="replit" width="80" height="40"/>&nbsp;
  
  
   
