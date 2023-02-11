@@ -18,6 +18,7 @@ Here are some ideas to get you started: -->
 - :zap: In my free time, I solve problems on hackerrank
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
 - [Résumé](https://drive.google.com/file/d/13cgyM6d6UkV9KgwNyClRfiW3j6XtWHRw/view?usp=share_link)
+- 😄 Coding Myth: One Language is better than the rest
 
 
 ---
