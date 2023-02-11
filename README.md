@@ -64,6 +64,10 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitusergb&layout=compact&theme=vision-friendly-dark&card_width=450px)](https://github.com/gitusergb/github-readme-stats)
 
 ---
+![Top Trophy](https://github-profile-trophy.vercel.app/?username=gitusergb&theme=oldie)
+
+
+---
 
 <img src="https://komarev.com/ghpvc/?username=gitusergb&style=flat-square&color=blue" alt="gitusergb"/>
 
