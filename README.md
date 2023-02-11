@@ -2,6 +2,8 @@
 
 
 
+
+
 ---
 
 ### :woman_technologist: About Me :
@@ -70,5 +72,6 @@ Here are some ideas to get you started: -->
 <img src="https://komarev.com/ghpvc/?username=gitusergb&style=flat-square&color=blue" alt="gitusergb"/>
 
 <p dir="auto">Thanks! 
-  <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji>
+  <img src="https://media4.giphy.com/media/jWRnA7aBoUOvsiAzJB/200w.webp?cid=ecf05e47qkyv4exfs2umwh3wlpgj3n9gzpnrtrsegt37mpz3&rid=200w.webp&ct=g" width="20px"/>
+<!--   <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> -->
 </p>
