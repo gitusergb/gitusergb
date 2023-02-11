@@ -1,8 +1,8 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Gauri Bidwai
+### <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Gauri Bidwai </h1>
 
 ---
 
-### :woman_technologist: About Me :
+### <h2>:woman_technologist: About Me :</h2>
 <!--
 **gitusergb/gitusergb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
@@ -18,8 +18,8 @@ Here are some ideas to get you started: -->
 - 🔭 Aspiring Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from MH,India
 - 💬 Ask me about HTML,CSS,JavaScript
 - :zap: In my free time, I solve problems on hackerrank
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
-- [Résumé](https://drive.google.com/file/d/13cgyM6d6UkV9KgwNyClRfiW3j6XtWHRw/view?usp=share_link)
+- :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
+- :page_with_curl: [Résumé](https://drive.google.com/file/d/13cgyM6d6UkV9KgwNyClRfiW3j6XtWHRw/view?usp=share_link)
 - 😄 Coding Myth: One Language is better than the rest
 
 <!-- <div id="header" align="left">
@@ -29,7 +29,7 @@ Here are some ideas to get you started: -->
 
 ---
 
-### :hammer_and_wrench: Languages and Tools , IDE :
+### <h2>:hammer_and_wrench: Languages and Tools , IDE :</h2>
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" title="Java" alt="Java" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="60" height="40"/>&nbsp;
@@ -53,7 +53,7 @@ Here are some ideas to get you started: -->
 
 ---
 
-### :fire: My Stats :
+### <h2>:fire: My Stats :</h2>
 
 [![Gauri's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitusergb&show_icons=true&theme=slateorange&bg_color=000000&card_width=500px)](https://github.com/gitusergb/github-readme-statsslateorange)
 
@@ -71,7 +71,7 @@ Here are some ideas to get you started: -->
 
 <img src="https://komarev.com/ghpvc/?username=gitusergb&style=flat-square&color=blue" alt="gitusergb"/>
 
-<p dir="auto">Thanks! 
+<h2><p dir="auto">Thanks! 
   <img src="https://media4.giphy.com/media/jWRnA7aBoUOvsiAzJB/200w.webp?cid=ecf05e47qkyv4exfs2umwh3wlpgj3n9gzpnrtrsegt37mpz3&rid=200w.webp&ct=g" width="20px"/>
 <!--   <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> -->
-</p>
+</p></h2>
