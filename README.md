@@ -1,9 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Gauri Bidwai
 
-
-
-
-
 ---
 
 ### :woman_technologist: About Me :
@@ -15,6 +11,10 @@ Here are some ideas to get you started: -->
 <!--- 😄 Pronouns: 
 - 🌱 I’m currently learning HTML,CSS,JavaScript -->
 
+
+
+ <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="300" />
+ 
 - 🔭 Aspiring Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from MH,India
 - 💬 Ask me about HTML,CSS,JavaScript
 - :zap: In my free time, I solve problems on hackerrank
@@ -22,13 +22,9 @@ Here are some ideas to get you started: -->
 - [Résumé](https://drive.google.com/file/d/13cgyM6d6UkV9KgwNyClRfiW3j6XtWHRw/view?usp=share_link)
 - 😄 Coding Myth: One Language is better than the rest
 
-
----
-
-
-<div id="header" align="left">
+<!-- <div id="header" align="left">
   <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="400"/>
-</div>
+</div> -->
 
 
 ---
