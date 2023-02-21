@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about HTML,CSS,JavaScript
 - :zap: In my free time, I solve problems on hackerrank
 - :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
-- :page_with_curl: [Résumé](https://drive.google.com/file/d/13cgyM6d6UkV9KgwNyClRfiW3j6XtWHRw/view?usp=share_link)
+- :page_with_curl: [Résumé](https://drive.google.com/file/d/1up3IoTDutUVjb1Z-Fge8XKqrZb8HYyRQ/view?usp=share_link)
 - 😄 Coding Myth: One Language is better than the rest
 
 <!-- <div id="header" align="left">
@@ -41,7 +41,7 @@ Here are some ideas to get you started: -->
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" title="Bootstrap"  alt="Bootstrap" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" title="npm"  alt="npm" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" title="Eclipse" alt="Eclipse" width="80" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" title="sublime_text"  alt="sublime_text" width="80" height="40"/>&nbsp;
+<!--   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" title="sublime_text"  alt="sublime_text" width="80" height="40"/>&nbsp; -->
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" title="Visual_Studio"  alt="Visual_Studio" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white" title="replit"  alt="replit" width="80" height="40"/>&nbsp;
  
