@@ -19,7 +19,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about HTML,CSS,JavaScript
 - :zap: In my free time, I solve problems on hackerrank
 - :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
-- :page_with_curl: [Résumé](https://drive.google.com/file/d/1up3IoTDutUVjb1Z-Fge8XKqrZb8HYyRQ/view?usp=share_link)
+- :page_with_curl: [Résumé](https://drive.google.com/file/d/1SVQLkTSkxsRb8nm-K2HcVCDOAmblNYun/view?usp=share_link)
 - 😄 Coding Myth: One Language is better than the rest
 
 <!-- <div id="header" align="left">
