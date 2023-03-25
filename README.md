@@ -39,6 +39,7 @@ Here are some ideas to get you started: -->
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" title="JavaScript" alt="JavaScript" width="80" height="40"/>&nbsp;
+ <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" title="WordPress" alt="WordPress" width="80" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" title="MySQL"  alt="MySQL" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" title="Git" alt="Git" width="70" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" title="Netlify"  alt="Netlify" width="70" height="40"/>&nbsp;
