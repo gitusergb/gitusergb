@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about HTML,CSS,JavaScript
 - :zap: In my free time, I solve problems on hackerrank
 - :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
-- :page_with_curl: [Résumé](https://drive.google.com/file/d/13qukscGwoAEbWeu8hXds1kBUyH1kZqLP/view?usp=share_link)
+- :page_with_curl: [Résumé](https://gauri-bidwai-resume.netlify.app/)
 - 😄 Coding Myth: One Language is better than the rest
 
 <!-- <div id="header" align="left">
