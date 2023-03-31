@@ -22,7 +22,9 @@ Here are some ideas to get you started: -->
 - 🔭 Aspiring Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from MH,India
 - 💬 Ask me about HTML,CSS,JavaScript
 - :zap: In my free time, I solve problems on hackerrank
-- :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
+- :iphone:  connect with me:
+-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/)
+-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com) :gauribidwai94@gmail.com
 - :page_with_curl: [Résumé](https://9auri-3idwai-resume.netlify.app/)
 - 😄 Coding Myth: One Language is better than the rest
 
