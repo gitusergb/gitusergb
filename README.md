@@ -28,7 +28,7 @@ Here are some ideas to get you started: -->
 - :zap: In my free time, I create web pages 
 - :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
-- :page_with_curl: <a href="https://9auri-3idwai-resume.netlify.app/" class="btn btn-info" type="button" role="button">Resume</a>
+- :page_with_curl: <a href="https://majestic-gumdrop-f764f3.netlify.app/" class="btn btn-info" type="button" role="button">Resume</a>
 <!-- - [Résumé](https://9auri-3idwai-resume.netlify.app/) -->
 
 
