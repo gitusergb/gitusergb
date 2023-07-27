@@ -1,8 +1,8 @@
 
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVlMWU5NWI5M2I1ZmI1MTc0MWU5MGRlNDg2NzY0ZWIyMTdiNTM0MCZjdD1n/6CpyH3eXeRAeewOhWs/giphy.gif" height="400px" width="1000px" />
+<!--### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVlMWU5NWI5M2I1ZmI1MTc0MWU5MGRlNDg2NzY0ZWIyMTdiNTM0MCZjdD1n/6CpyH3eXeRAeewOhWs/giphy.gif" height="400px" width="1000px" />-->
 
-<!-- <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Gauri Bidwai </h1> -->
+ <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Gauri Bidwai </h1> 
 
 
 <img src="https://komarev.com/ghpvc/?username=gitusergb&style=flat-square&color=blue" alt="gitusergb"/>
