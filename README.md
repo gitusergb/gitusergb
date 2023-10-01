@@ -7,18 +7,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=gitusergb&style=flat-square&color=blue" alt="gitusergb"/>
 
-
 ---
 
-### <h2>:woman_technologist: About Me :</h2>
-<!--
-**gitusergb/gitusergb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
-<!--- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m looking for help with -->
-<!--- 😄 Pronouns: 
-- 🌱 I’m currently learning HTML,CSS,JavaScript -->
-
+# 💫 About Me:
 
 
  <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="300" />
@@ -30,14 +21,7 @@ Here are some ideas to get you started: -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
 <!-- - :page_with_curl: <a href="https://majestic-gumdrop-f764f3.netlify.app/" target="_blank" download >Resume</a>
 - [Résumé](https://9auri-3idwai-resume.netlify.app/) -->
-
-
 - 😄 Coding Myth: One Language is better than the rest
-
-<!-- <div id="header" align="left">
-  <img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="400"/>
-</div> -->
-
 
 ---
 
@@ -57,16 +41,12 @@ Here are some ideas to get you started: -->
 <!--   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important" title="sublime_text"  alt="sublime_text" width="80" height="40"/>&nbsp; -->
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" title="Visual_Studio"  alt="Visual_Studio" width="80" height="40"/>&nbsp;
  <!--  <img src="https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white" title="replit"  alt="replit" width="80" height="40"/>&nbsp;-->
- 
- 
-  
- 
-  
+
 </div>
 
 ---
 
-### <h2>:fire: My Stats :</h2>
+# 📊 Stats:
 
 [![Gauri's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gitusergb&show_icons=true&theme=slateorange&bg_color=000000&card_width=500px)](https://github.com/gitusergb/github-readme-statsslateorange)
 
@@ -77,14 +57,11 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitusergb&layout=compact&theme=vision-friendly-dark&card_width=450px)](https://github.com/gitusergb/github-readme-stats)
 
 ---
-![Top Trophy](https://github-profile-trophy.vercel.app/?username=gitusergb&theme=oldie)
 
+![Top Trophy](https://github-profile-trophy.vercel.app/?username=gitusergb&theme=oldie)
 
 ---
 
-
-
-<h2><p dir="auto">Thanks! 
+<p dir="auto">Thanks! 
   <img src="https://media4.giphy.com/media/jWRnA7aBoUOvsiAzJB/200w.webp?cid=ecf05e47qkyv4exfs2umwh3wlpgj3n9gzpnrtrsegt37mpz3&rid=200w.webp&ct=g" width="20px"/>
-<!--   <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> -->
-</p></h2>
+</p>
