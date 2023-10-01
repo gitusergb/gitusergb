@@ -5,7 +5,7 @@
  <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>  I'm Gauri Bidwai </h1> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://komarev.com/ghpvc/?username=gitusergb&style=flat-square&color=blue" alt="gitusergb"/>
+<!--<img src="https://komarev.com/ghpvc/?username=gitusergb&style=flat-square&color=blue" alt="gitusergb"/>-->
 
 ---
 
@@ -58,9 +58,9 @@
 
 ---
 
-![Top Trophy](https://github-profile-trophy.vercel.app/?username=gitusergb&theme=oldie)
+ <!--![Top Trophy](https://github-profile-trophy.vercel.app/?username=gitusergb&theme=oldie)
 
----
+--- -->
 
 <p dir="auto">Thanks! 
   <img src="https://media4.giphy.com/media/jWRnA7aBoUOvsiAzJB/200w.webp?cid=ecf05e47qkyv4exfs2umwh3wlpgj3n9gzpnrtrsegt37mpz3&rid=200w.webp&ct=g" width="20px"/>
