@@ -24,12 +24,12 @@ Here are some ideas to get you started: -->
  <img align="right" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" width="300" />
  
 - 🔭 Aspiring Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from MH,India
-- 💬 Ask me about HTML,CSS,JavaScript
+- 💬 Ask me about HTML, CSS, JavaScript, React
 - :zap: In my free time, I create web pages 
 - :iphone:  connect with me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
-- :page_with_curl: <a href="https://majestic-gumdrop-f764f3.netlify.app/" target="_blank" download >Resume</a>
-<!-- - [Résumé](https://9auri-3idwai-resume.netlify.app/) -->
+<!-- - :page_with_curl: <a href="https://majestic-gumdrop-f764f3.netlify.app/" target="_blank" download >Resume</a>
+- [Résumé](https://9auri-3idwai-resume.netlify.app/) -->
 
 
 - 😄 Coding Myth: One Language is better than the rest
