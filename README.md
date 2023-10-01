@@ -41,7 +41,7 @@ Here are some ideas to get you started: -->
 
 ---
 
-### <h2>:hammer_and_wrench: Languages and Tools , IDE :</h2>
+### <h2>:hammer_and_wrench: Tech Stack :</h2>
 <div>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" title="Java" alt="Java" width="60" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"  title="CSS3" alt="CSS" width="60" height="40"/>&nbsp;
