@@ -12,9 +12,10 @@
    - :telescope: Aspiring Web Developer from MH, India
    - :speech_balloon: Ask me about HTML, CSS, JavaScript, React
    - :zap: In my free time, I create web pages
-   - :iphone: Connect with me:
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-bidwai/) &nbsp;
- [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](gauribidwai94@gmail.com)
+   - 📫 How to reach me **gauribidwai94@gmail.com**
+   - Portfolio  **https://gitusergb.github.io/**
+   - LinkedIn **https://www.linkedin.com/in/gauri-bidwai/**
+    
    - 😄 Coding Myth: One Language is better than the rest
     
 
