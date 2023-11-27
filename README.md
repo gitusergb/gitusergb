@@ -33,7 +33,13 @@
 ## Stats :bar_chart:
 
 ![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitusergb&show_icons=true&theme=slateorange&bg_color=000000&card_width=500px)
+
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitusergb&layout=compact&theme=vision-friendly-dark&card_width=450px)
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gitusergb&theme=dark&border_radius=10&date_format=%5BY%20%5DM%20j&card_width=498&stroke=F2F3F4&ring=854CE6&fire=FF712A&currStreakLabel=FF712A" alt="GitHub Streak" /></a>
+
+
 
 
