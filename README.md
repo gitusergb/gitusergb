@@ -1,4 +1,4 @@
-# Hey there :wave: I'm Gauri Bidwai
+# Hi :wave: I'm Gauri Bidwai
 
 <p align="center">
   <a href="https://github.com/gitusergb/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Postgraduate;Web+Designer;MERN+Stack+Web+Developer;Aspiring+Learner&center=true&width=500&height=50"></a>
